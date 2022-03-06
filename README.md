@@ -27,10 +27,14 @@ This project has recently been updated at: https://github.com/suzarilshah/agriph
 
 # The project consists of a few Elements 
 - Physical Setup
-  a. Electronic Setup
-  b. Aquaponics Setup
-    ![Front](https://github.com/suzarilshah/smartaquaponics/blob/master/prototype-setup/front.jpg)
+  ![Front](https://github.com/suzarilshah/smartaquaponics/blob/master/prototype-setup/front.jpg)
   
-  You can view the diagrams to build the Electronics setup [here](https://github.com/suzarilshah/smartaquaponics/tree/master/project-diagram)
-  In addition, the physical aquaponics setup can be found [here](https://github.com/suzarilshah/smartaquaponics/tree/master/prototype-setup)
+- Electronic Setup - for fish tank
+  ![Diagram](https://github.com/suzarilshah/smartaquaponics/blob/master/project-diagram/fish-electronicsdiagram.PNG)
+  
+- Electronic Setup - for plant tank
+  ![Diagram](https://github.com/suzarilshah/smartaquaponics/blob/master/project-diagram/plant-electronicsdiagram.PNG)
+  
+  You can view the diagrams to build the Electronics setup [here.](https://github.com/suzarilshah/smartaquaponics/tree/master/project-diagram)
+  In addition, the physical aquaponics setup can be found [here.](https://github.com/suzarilshah/smartaquaponics/tree/master/prototype-setup)
 
