@@ -16,5 +16,20 @@ This project has recently been updated at: https://github.com/suzarilshah/agriph
 ### - Implementing Data Analytics using PowerBI
 
 ## Methodology
-You ***
+
+#Below are the flowchart for this project
+
+![Flow Chart](https://github.com/suzarilshah/smartaquaponics/blob/master/project-diagram/flow%20chart.PNG)
+
+#Concept of the project
+![Project Diagram](https://github.com/suzarilshah/smartaquaponics/blob/master/project-diagram/flow.png)
+
+
+# The project consists of a few Elements 
+- Physical Setup
+  a. Electronic Setup
+  b. Aquaponics Setup
+  
+  You can view the diagrams to build the Electronics setup [here](https://github.com/suzarilshah/smartaquaponics/tree/master/project-diagram)
+  In addition, the physical aquaponics setup can be found [here](https://github.com/suzarilshah/smartaquaponics/tree/master/prototype-setup)
 
